@@ -1,0 +1,16 @@
+Explain Css box model?
+    figure garauni:
+    box garauni 
+    margin
+    padding
+    text
+    eg: html and css code
+    <div class="box">
+    text
+    </div>
+    css code
+    .box{
+        margin: 3rem;
+        padding: 2rem;
+        font-size: 1.5rem;
+    }
